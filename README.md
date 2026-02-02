@@ -1,12 +1,14 @@
 # Awesome ASIC Interview Resources
 
 Following categories of practice(in the order of decreasing priority):
+```
 1. Resume Related Practice and topics study.
 2. Computer Architecture Parctice (Cache coherenace, Out of order execution, Pipelining, ALU design, MAC design etc).
 3. ASIC-VLSI Topics (CDC Synchronizers, FIFOs, STA, High Speed Designs, Low Power Designs - Clock and Power Gating).
 4. Verilog/SystemVerilog + FSM topics (Palindromes, Multiplier design, LRU design, CRC checks, One-Hot vs Gray Encoding, Barrel Shifters).
 5. Verification Methedologies + UVM.
 6. Communication Protocols (SPI, UART, PCIe, CAN, AMBA/AXI, Synchronous vs Asynchronous data transfer, Parallel vs Serial Communication).
+```
 
 ---
 
