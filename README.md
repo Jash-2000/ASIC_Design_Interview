@@ -40,3 +40,8 @@ Following categories of practice(in the order of decreasing priority):
 - https://stackoverflow.com/questions/1656608/what-is-difference-between-superscaling-and-pipelining
 - https://www.glassdoor.com/Interview/asic-design-engineer-interview-questions-SRCH_KO0,20.htm
 - https://asic-soc.blogspot.com/2007/07/intel-interview-questions.html
+- https://www.indeed.com/career-advice/interviewing/rtl-design-interview-questions
+- https://thedatabus.in/interview_list/
+- https://www.glassdoor.com/Interview/Google-CPU-RTL-Design-Interview-Questions-EI_IE9079.0,6_KO7,21.htm
+- https://fpgadesign.io/
+- 
